@@ -1,0 +1,75 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+  background-color: #28a745;
+  text-align: right;
+
+}
+.logo{
+  height: 25px;
+
+}
+
+.card-p{
+  font-size: 1em;
+  color:#707070;
+  font-weight: 300;
+}
+
+.card-u{
+font-size: 0.8em;
+  color:#707070;
+  font-weight: 300;
+}
+
+span{
+font-size: 1.25em;
+}
+
+.precio{
+  text-align: right;
+}
+.precio-1{
+    color:#707070;
+}
+
+.formulario-color{
+    background-color: #28a745;
+}
+
+.informacion-cupones{
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.logo-black{
+  height: 24px;
+}
+
+.logo-black-footer{
+  text-align: center;
+}
+
+.boton{
+  margin: auto;
+  font-weight: 500;
+}
+
+.texto-footer{
+  font-size: 1.1em;
+  text-align: center;
+  font-weight: 300;
+  color: #707070;
+}
+
+.form-control{
+  font-weight: 300;
+
+}
+
+.card-title{
+  font-weight: 300;
+  color: #212529;
+}
